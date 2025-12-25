@@ -1,4 +1,4 @@
-\# 🎙️ Voice-Enabled Weather Bot (Python)
+\ 🎙️ Voice-Enabled Weather Bot (Python)
 
 
 
@@ -14,7 +14,7 @@ Instead of searching on Google, this bot lets you \*\*ask the weather like talki
 
 
 
-\## 🚀 Features
+\ 🚀 Features
 
 \- 🎤 Voice or Text input for city name  
 
@@ -30,7 +30,7 @@ Instead of searching on Google, this bot lets you \*\*ask the weather like talki
 
 
 
-\## 🛠️ Tech Stack
+\ 🛠️ Tech Stack
 
 \- Python
 
@@ -48,13 +48,14 @@ Instead of searching on Google, this bot lets you \*\*ask the weather like talki
 
 
 
-\## 📦 Installation
+ 📦 Installation
 
 
 
 ```bash
 
 pip install -r requirements.txt
+
 
 
 
