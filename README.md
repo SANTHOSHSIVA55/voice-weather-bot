@@ -45,10 +45,12 @@ Instead of searching on Google, this bot lets you \*\*ask the weather like talki
 
 
 ---
+Picture for Reference
 
+<img width="1590" height="841" alt="Screenshot 2025-12-31 090517" src="https://github.com/user-attachments/assets/8c057bf1-c912-4991-8e45-ea558a57e706" />
 
-
- 📦 Installation
+---
+📦 Installation
 
 
 
@@ -57,7 +59,11 @@ Instead of searching on Google, this bot lets you \*\*ask the weather like talki
 pip install -r requirements.txt
 
 
-<img width="1590" height="841" alt="image" src="https://github.com/user-attachments/assets/42936a86-5b63-48ed-8027-9ef4a89a55e7" />
+
+
+
+
+
 
 
 
