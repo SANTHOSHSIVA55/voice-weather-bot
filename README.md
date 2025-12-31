@@ -20,6 +20,10 @@ Instead of searching on Google, this bot lets you \*\*ask the weather like talki
 
 \- 🌤️ Real-time weather data using \*\*OpenWeather API\*\*  
 
+
+<img width="1590" height="841" alt="image" src="https://github.com/user-attachments/assets/83e28cc2-c245-4339-a645-5b00c4bcf42b" />
+
+
 \- 🔊 Speaks the weather using \*\*pyttsx3\*\*  
 
 \- 🧠 Beginner-friendly \& clean Python code  
@@ -55,6 +59,7 @@ Instead of searching on Google, this bot lets you \*\*ask the weather like talki
 ```bash
 
 pip install -r requirements.txt
+
 
 
 
